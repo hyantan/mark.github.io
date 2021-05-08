@@ -89,7 +89,7 @@ body {background: #c0c0c0; overflow-y: scroll;}
 	height: 90%;
 	top: 90px;
 	left: 0;
-	position: fixed;
+	position: absolute;
 	margin: 0 auto;
 }
 .MIR_TRUD_MAY {
@@ -98,8 +98,6 @@ body {background: #c0c0c0; overflow-y: scroll;}
     height: 65vmin;
     font-family: 'Lato', sans-serif;
     font-size: 170%;
-	max-width: 80vmin;
-	max-height: 65vmin;
 }
 .onik {
   position: static;

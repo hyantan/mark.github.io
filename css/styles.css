@@ -1,3 +1,7 @@
+html{
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .debik {
 	color: white;
     font-family: 'Roboto', sans-serif;
@@ -8,7 +12,11 @@
     font-family: 'Roboto', sans-serif;
     font-size: 50%;
 }
-body {background: #c0c0c0; overflow-x:hidden;}
+body {
+	background: #c0c0c0; 
+	overflow-x:hidden;
+    max-width: 100%;
+}
 .elem {
 	top: 0;
 	left: 10px;

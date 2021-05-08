@@ -34,7 +34,8 @@ body {
 	left: 0;
 	position: absolute;
 	margin: 0 auto;
-	background: black;
+	background: black
+	overflow-x: hidden;
 }
 .telko {
 	width: 10px

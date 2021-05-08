@@ -17,6 +17,9 @@ body {
 	overflow-x:hidden;
     max-width: 100%;
 }
+header {
+	overflow-x: hidden;
+}
 .elem {
 	top: 0;
 	left: 10px;
@@ -36,6 +39,7 @@ body {
 	margin: 0 auto;
 	background: black;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 .telko {
 	width: 10px

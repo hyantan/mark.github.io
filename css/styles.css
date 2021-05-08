@@ -24,7 +24,7 @@ body {background: #c0c0c0; overflow-y: scroll;}
 	height: 70px;
 	top: 0;
 	left: 0;
-	position: fixed;
+	position: absolute;
   margin: 0 auto;
 	background: black;
 }

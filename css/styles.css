@@ -8,7 +8,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 50%;
 }
-body {background: #c0c0c0;}
+body {background: #c0c0c0; position: static;}
 .elem {
 	top: 0;
 	left: 10px;
